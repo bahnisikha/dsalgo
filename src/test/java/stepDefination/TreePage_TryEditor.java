@@ -30,8 +30,9 @@ public class TreePage_TryEditor {
 	
 
 @Given("User is on Tree Subpage {string}")
-public void user_is_on_tree_subpage(String Subpagename) {
-    // Write code here that turns the phrase above into concrete actions	
+public void user_is_on_tree_subpage(String Subpagename) throws InterruptedException {
+    // Write code here that turns the phrase above into concrete actions
+	
 	String Titlestatus= TreePage.TreeSubpageTitle(Subpagename);
 		
 	if (Titlestatus=="True"	)

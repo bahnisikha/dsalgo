@@ -69,7 +69,7 @@ public class TreeTypesPage_SD {
 	}
 
 	@Then("Title of page should be types of trees")
-	public void title_of_page_should_be_overview_of_trees() {
+	public void title_of_page_should_be_overview_of_trees() throws InterruptedException {
 
 		tryeditorlink.user_is_on_tree_subpage("Types of Trees");
 tryeditorlink.user_clicks_on_try_editor_link();

@@ -1,0 +1,1665 @@
+[INFO ]2023-04-19 22:51:24.065 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-19 22:51:26.068 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-19 22:51:27.211 [main]LoggerLoad-click on ds
+[INFO ]2023-04-19 22:51:27.448 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:51:27.478 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:51:27.515 [main]LoggerLoad-click LinkedList 
+[INFO ]2023-04-19 22:51:27.726 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:51:27.753 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:51:27.791 [main]LoggerLoad-click stack
+[INFO ]2023-04-19 22:51:28.009 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:51:28.034 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:51:28.057 [main]LoggerLoad-click  queue 
+[INFO ]2023-04-19 22:51:28.294 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:51:28.320 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:51:28.340 [main]LoggerLoad-click  Tree 
+[INFO ]2023-04-19 22:51:28.560 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:51:28.591 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:51:28.764 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:51:28.994 [main]LoggerLoad-Checking array logger in pom Arrays
+[INFO ]2023-04-19 22:51:28.994 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:51:28.997 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:51:29.178 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:51:29.377 [main]LoggerLoad-Checking linkedlist logger in pom Linked list
+[INFO ]2023-04-19 22:51:29.377 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:51:29.379 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:51:29.519 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:51:29.521 [main]LoggerLoad-Checking stack logger in pom Stack
+[INFO ]2023-04-19 22:51:29.704 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:51:29.707 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:51:29.872 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:51:30.048 [main]LoggerLoad-Checking queuelogger in pom Queue
+[INFO ]2023-04-19 22:51:30.049 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:51:30.051 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:51:30.216 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:51:30.412 [main]LoggerLoad-Checking tree logger in pom Tree
+[INFO ]2023-04-19 22:51:30.412 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:51:30.415 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:51:30.572 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:51:30.866 [main]LoggerLoad-Checking graph logger in pom Graph
+[INFO ]2023-04-19 22:51:30.866 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:51:30.868 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:51:30.910 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:51:31.146 [main]LoggerLoad-user is on signinpage sd
+[INFO ]2023-04-19 22:51:31.178 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:51:31.651 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:51:32.543 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:32.993 [main]LoggerLoad-Title of current page of tree is:Overview of Trees
+[INFO ]2023-04-19 22:51:32.993 [main]LoggerLoad-Title of SubpageTitle page of tree is:Overview of Trees
+[INFO ]2023-04-19 22:51:32.994 [main]LoggerLoad-User onOverview of Trees
+[INFO ]2023-04-19 22:51:33.445 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-19 22:51:33.445 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-19 22:51:33.445 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-19 22:51:33.715 [main]LoggerLoad-5
+[WARN ]2023-04-19 22:51:34.089 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:51:34.125 [main]LoggerLoad-invalid
+[INFO ]2023-04-19 22:51:34.781 [main]LoggerLoad-Please fill out username field
+[INFO ]2023-04-19 22:51:35.040 [main]LoggerLoad-Please fill out password  field
+[INFO ]2023-04-19 22:51:35.489 [main]LoggerLoad-Please fill out password confirmation field
+[INFO ]2023-04-19 22:51:37.401 [main]LoggerLoad-User Enter username as " $$$$ "and Password as " Numy123" Confirm password as" Numy123
+[INFO ]2023-04-19 22:51:38.060 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:38.060 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:38.229 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " abct56" Confirm password as" abcyyy5
+[INFO ]2023-04-19 22:51:38.806 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:38.806 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:38.963 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " 12345abc" Confirm password as" 12345abc
+[INFO ]2023-04-19 22:51:39.533 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:39.534 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:39.677 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " ffg12" Confirm password as" ffg12
+[INFO ]2023-04-19 22:51:40.233 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:40.233 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:51:40.376 [main]LoggerLoad-user is on login page
+[INFO ]2023-04-19 22:51:40.717 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:51:41.474 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:41.819 [main]LoggerLoad-Title of current page of tree is:Terminologies
+[INFO ]2023-04-19 22:51:41.819 [main]LoggerLoad-Title of SubpageTitle page of tree is:Terminologies
+[INFO ]2023-04-19 22:51:41.819 [main]LoggerLoad-User onTerminologies
+[INFO ]2023-04-19 22:51:42.012 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-19 22:51:42.013 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-19 22:51:42.013 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-19 22:51:42.168 [main]LoggerLoad-5
+[WARN ]2023-04-19 22:51:42.510 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:51:42.529 [main]LoggerLoad-invalid
+[INFO ]2023-04-19 22:51:42.938 [main]LoggerLoad-Usser is on signin page
+[INFO ]2023-04-19 22:51:43.293 [main]LoggerLoad-User succesfully rediredct to registerpage
+[INFO ]2023-04-19 22:51:43.322 [main]LoggerLoad-user is on register page SD
+[INFO ]2023-04-19 22:51:43.530 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:51:43.560 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:51:44.212 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:44.214 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:51:44.278 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:51:44.819 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:44.821 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:51:44.883 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:51:45.312 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:45.316 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:51:45.352 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:51:45.509 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:51:45.917 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:51:46.189 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:46.195 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-19 22:51:46.271 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:51:46.437 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:51:46.903 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:51:47.143 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:47.149 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-19 22:51:47.228 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:51:47.406 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:51:47.848 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:51:48.083 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:48.093 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-19 22:51:48.158 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:51:48.334 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:51:48.823 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:51:49.171 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:49.179 [main]LoggerLoad-message from soumya title page NumpyNinja
+[INFO ]2023-04-19 22:51:49.185 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:51:49.228 [main]LoggerLoad-user is on home page SD
+[INFO ]2023-04-19 22:51:49.428 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-19 22:51:49.769 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:51:50.645 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:51:51.025 [main]LoggerLoad-Title of current page of tree is:Types of Trees
+[INFO ]2023-04-19 22:51:51.025 [main]LoggerLoad-Title of SubpageTitle page of tree is:Types of Trees
+[INFO ]2023-04-19 22:51:51.025 [main]LoggerLoad-User onTypes of Trees
+[INFO ]2023-04-19 22:51:51.282 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-19 22:51:51.282 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-19 22:51:51.282 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-19 22:51:51.458 [main]LoggerLoad-5
+[WARN ]2023-04-19 22:51:51.824 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:51:51.846 [main]LoggerLoad-invalid
+[INFO ]2023-04-19 22:51:53.012 [main]LoggerLoad-user enter valid username and password pom ds
+[INFO ]2023-04-19 22:51:53.014 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-19 22:51:53.306 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-19 22:51:53.587 [main]LoggerLoad-The user should be redirected to Time Complexity page SDDS
+[INFO ]2023-04-19 22:51:53.604 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-19 22:51:54.373 [main]LoggerLoad-user try to do negative test
+[WARN ]2023-04-19 22:51:54.602 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:51:54.945 [main]LoggerLoad-user is on stack page SDST
+[INFO ]2023-04-19 22:51:55.264 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-04-19 22:51:55.300 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-19 22:51:55.594 [main]LoggerLoad-Title of current page is:Assessment
+[WARN ]2023-04-19 22:51:56.259 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:51:56.660 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-19 22:51:56.979 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-19 22:51:57.126 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-04-19 22:51:57.355 [main]LoggerLoad-user in Arrays in Python page
+[INFO ]2023-04-19 22:51:57.654 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-19 22:51:58.430 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:51:58.991 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-19 22:52:00.163 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:52:00.637 [main]LoggerLoad-user is on basic operation page
+[INFO ]2023-04-19 22:52:00.646 [main]LoggerLoad-Title of current page is:Basic Operations in Lists
+[WARN ]2023-04-19 22:52:01.586 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:52:01.977 [main]LoggerLoad-Title of current page is:Applications of Array
+[INFO ]2023-04-19 22:52:02.474 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-19 22:52:03.031 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-19 22:52:03.658 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-19 22:52:03.768 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-19 22:52:03.780 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:52:03.780 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:52:04.160 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-19 22:52:09.610 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-19 22:52:09.781 [main]LoggerLoad-----------------User clicks on Graph Get started button----------------------
+[INFO ]2023-04-19 22:52:09.970 [main]LoggerLoad-----------------User is on Graph Page----------------------
+[INFO ]2023-04-19 22:52:10.001 [main]LoggerLoad-----------------User is on Graph Data Structure Page----------------------
+[INFO ]2023-04-19 22:52:10.003 [main]LoggerLoad-----------------User clicks on Graph link in Graph Page----------------------
+[INFO ]2023-04-19 22:52:10.139 [main]LoggerLoad-----------------User is re-directed to Graphlink of Graph Page----------------------
+[INFO ]2023-04-19 22:52:10.167 [main]LoggerLoad-----------------User is on Graph link of Graph Page----------------------
+[INFO ]2023-04-19 22:52:10.169 [main]LoggerLoad-----------------User clicks on Try here button----------------------
+[INFO ]2023-04-19 22:52:10.428 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-19 22:52:10.459 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-19 22:52:10.461 [main]LoggerLoad-----------------User enters Valid Python code----------------------
+[INFO ]2023-04-19 22:52:10.597 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-19 22:52:10.700 [main]LoggerLoad-----------------User is presented with the Result---------------------
+[INFO ]2023-04-19 22:52:10.770 [main]LoggerLoad----------------User is on graph Page---------------------
+[INFO ]2023-04-19 22:52:10.889 [main]LoggerLoad----------------User is NAVIGATED TO graph Page---------------------
+[INFO ]2023-04-19 22:52:10.891 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-19 22:52:11.072 [main]LoggerLoad---------------User is navigated to Graph Representations Page---------------------
+[INFO ]2023-04-19 22:52:11.107 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-19 22:52:11.109 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-19 22:52:11.357 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-19 22:52:11.384 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-19 22:52:11.386 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-19 22:52:11.510 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-19 22:52:11.608 [main]LoggerLoad-----------------User is presented with Error Message---------------------
+[WARN ]2023-04-19 22:52:11.621 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:52:11.637 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-19 22:52:11.638 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-19 22:52:11.772 [main]LoggerLoad---------------User is navigated to Practice Questions Page---------------------
+[INFO ]2023-04-19 22:52:11.931 [main]LoggerLoad-----------User is on Home Page of Dsalgo Portal------------------------
+[INFO ]2023-04-19 22:52:11.932 [main]LoggerLoad-----------User clicks on getstarted button------------------------
+[INFO ]2023-04-19 22:52:12.169 [main]LoggerLoad-----------User is navigated to Queue data structure------------------------
+[INFO ]2023-04-19 22:52:12.194 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:52:12.195 [main]LoggerLoad-----------User clicks on Implementation of Queue in Python------------------------
+[INFO ]2023-04-19 22:52:12.482 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-19 22:52:12.484 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:52:12.743 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:52:12.780 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:52:12.904 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:52:12.962 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:52:13.157 [main]LoggerLoad-----------User is navigated to Implementation of Queue in python------------------------
+[INFO ]2023-04-19 22:52:13.159 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:52:13.551 [main]LoggerLoad-----------clicks on Run Button------------------------
+[WARN ]2023-04-19 22:52:13.614 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:52:13.627 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:52:13.627 [main]LoggerLoad-----------User clicks on the Implementation using collections.deque link------------------------
+[INFO ]2023-04-19 22:52:13.790 [main]LoggerLoad-----------User is navigated to Implementation using collections.deque link-----------------------
+[INFO ]2023-04-19 22:52:13.813 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:52:14.059 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:52:14.088 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:52:14.234 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:52:14.330 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:52:14.380 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:52:14.518 [main]LoggerLoad-----------User is navigated to Implementation using array page-----------------------
+[INFO ]2023-04-19 22:52:14.533 [main]LoggerLoad-----------User is on Implementation using array page-----------------------
+[INFO ]2023-04-19 22:52:14.534 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:52:14.812 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:52:14.838 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:52:14.980 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:52:15.079 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:52:15.146 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:52:15.148 [main]LoggerLoad-----------User clicks on  Queue Operations link-----------------------
+[INFO ]2023-04-19 22:52:15.303 [main]LoggerLoad-----------User is navigated to Queue Operations Page-----------------------
+[INFO ]2023-04-19 22:52:15.324 [main]LoggerLoad-----------User is on QUeue Operations Page-----------------------
+[INFO ]2023-04-19 22:52:15.327 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:52:15.594 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:52:15.629 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:52:15.750 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:52:15.830 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:52:15.896 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-19 22:52:15.898 [main]LoggerLoad-----------User clicks on Practice Questions link-----------------------
+[INFO ]2023-04-19 22:52:16.096 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-19 22:53:14.745 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-19 22:53:16.701 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-19 22:53:18.056 [main]LoggerLoad-click on ds
+[INFO ]2023-04-19 22:53:18.302 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:53:18.334 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:53:18.379 [main]LoggerLoad-click LinkedList 
+[INFO ]2023-04-19 22:53:18.658 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:53:18.685 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:53:18.709 [main]LoggerLoad-click stack
+[INFO ]2023-04-19 22:53:18.943 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:53:18.970 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:53:18.990 [main]LoggerLoad-click  queue 
+[INFO ]2023-04-19 22:53:19.242 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:53:19.265 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:53:19.284 [main]LoggerLoad-click  Tree 
+[INFO ]2023-04-19 22:53:19.512 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:53:19.540 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-19 22:53:19.704 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:53:19.938 [main]LoggerLoad-Checking array logger in pom Arrays
+[INFO ]2023-04-19 22:53:19.938 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:53:19.940 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:53:20.098 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:53:20.317 [main]LoggerLoad-Checking linkedlist logger in pom Linked list
+[INFO ]2023-04-19 22:53:20.317 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:53:20.319 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:53:20.480 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:53:20.482 [main]LoggerLoad-Checking stack logger in pom Stack
+[INFO ]2023-04-19 22:53:20.682 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:53:20.684 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:53:20.858 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:53:21.069 [main]LoggerLoad-Checking queuelogger in pom Queue
+[INFO ]2023-04-19 22:53:21.069 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:53:21.075 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:53:21.241 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:53:21.487 [main]LoggerLoad-Checking tree logger in pom Tree
+[INFO ]2023-04-19 22:53:21.487 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:53:21.490 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:53:21.696 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-19 22:53:21.938 [main]LoggerLoad-Checking graph logger in pom Graph
+[INFO ]2023-04-19 22:53:21.939 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-19 22:53:21.940 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-19 22:53:21.978 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:53:22.192 [main]LoggerLoad-user is on signinpage sd
+[INFO ]2023-04-19 22:53:22.213 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:53:22.683 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:53:23.598 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:24.025 [main]LoggerLoad-Title of current page of tree is:Overview of Trees
+[INFO ]2023-04-19 22:53:24.025 [main]LoggerLoad-Title of SubpageTitle page of tree is:Overview of Trees
+[INFO ]2023-04-19 22:53:24.026 [main]LoggerLoad-User onOverview of Trees
+[INFO ]2023-04-19 22:53:24.517 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-19 22:53:24.517 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-19 22:53:24.517 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-19 22:53:24.774 [main]LoggerLoad-5
+[WARN ]2023-04-19 22:53:25.077 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:25.113 [main]LoggerLoad-invalid
+[INFO ]2023-04-19 22:53:25.777 [main]LoggerLoad-Please fill out username field
+[INFO ]2023-04-19 22:53:26.055 [main]LoggerLoad-Please fill out password  field
+[INFO ]2023-04-19 22:53:26.308 [main]LoggerLoad-Please fill out password confirmation field
+[INFO ]2023-04-19 22:53:27.844 [main]LoggerLoad-User Enter username as " $$$$ "and Password as " Numy123" Confirm password as" Numy123
+[INFO ]2023-04-19 22:53:28.670 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:28.670 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:28.904 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " abct56" Confirm password as" abcyyy5
+[INFO ]2023-04-19 22:53:29.502 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:29.502 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:29.657 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " 12345abc" Confirm password as" 12345abc
+[INFO ]2023-04-19 22:53:30.422 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:30.423 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:30.564 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " ffg12" Confirm password as" ffg12
+[INFO ]2023-04-19 22:53:31.215 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:31.215 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-19 22:53:31.374 [main]LoggerLoad-user is on login page
+[INFO ]2023-04-19 22:53:31.737 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:53:32.558 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:32.922 [main]LoggerLoad-Title of current page of tree is:Terminologies
+[INFO ]2023-04-19 22:53:32.922 [main]LoggerLoad-Title of SubpageTitle page of tree is:Terminologies
+[INFO ]2023-04-19 22:53:32.922 [main]LoggerLoad-User onTerminologies
+[INFO ]2023-04-19 22:53:33.114 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-19 22:53:33.114 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-19 22:53:33.114 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-19 22:53:33.299 [main]LoggerLoad-5
+[WARN ]2023-04-19 22:53:33.570 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:33.591 [main]LoggerLoad-invalid
+[INFO ]2023-04-19 22:53:33.953 [main]LoggerLoad-Usser is on signin page
+[INFO ]2023-04-19 22:53:34.303 [main]LoggerLoad-User succesfully rediredct to registerpage
+[INFO ]2023-04-19 22:53:34.331 [main]LoggerLoad-user is on register page SD
+[INFO ]2023-04-19 22:53:34.555 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:53:34.579 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:53:35.325 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:35.328 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:53:35.394 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:53:35.929 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:35.931 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:53:35.997 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-19 22:53:36.389 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:36.393 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:53:36.465 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:53:36.650 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:53:37.077 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:53:37.300 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:37.309 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-19 22:53:37.383 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:53:37.553 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:53:38.030 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:53:38.238 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:38.242 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-19 22:53:38.298 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:53:38.502 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:53:39.010 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:53:39.287 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:39.292 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-19 22:53:39.365 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-19 22:53:39.551 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-19 22:53:40.011 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-19 22:53:40.394 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:40.401 [main]LoggerLoad-message from soumya title page NumpyNinja
+[INFO ]2023-04-19 22:53:40.407 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-19 22:53:40.451 [main]LoggerLoad-user is on home page SD
+[INFO ]2023-04-19 22:53:40.630 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-19 22:53:40.959 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-19 22:53:41.720 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-19 22:53:42.114 [main]LoggerLoad-Title of current page of tree is:Types of Trees
+[INFO ]2023-04-19 22:53:42.114 [main]LoggerLoad-Title of SubpageTitle page of tree is:Types of Trees
+[INFO ]2023-04-19 22:53:42.114 [main]LoggerLoad-User onTypes of Trees
+[INFO ]2023-04-19 22:53:42.332 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-19 22:53:42.332 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-19 22:53:42.332 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-19 22:53:42.489 [main]LoggerLoad-5
+[WARN ]2023-04-19 22:53:42.754 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:42.782 [main]LoggerLoad-invalid
+[INFO ]2023-04-19 22:53:44.197 [main]LoggerLoad-user enter valid username and password pom ds
+[INFO ]2023-04-19 22:53:44.200 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-19 22:53:44.487 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-19 22:53:44.751 [main]LoggerLoad-The user should be redirected to Time Complexity page SDDS
+[INFO ]2023-04-19 22:53:44.784 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-19 22:53:45.725 [main]LoggerLoad-user try to do negative test
+[WARN ]2023-04-19 22:53:45.944 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:46.299 [main]LoggerLoad-user is on stack page SDST
+[INFO ]2023-04-19 22:53:46.628 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-04-19 22:53:46.660 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-19 22:53:46.971 [main]LoggerLoad-Title of current page is:Assessment
+[WARN ]2023-04-19 22:53:47.762 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:48.159 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-19 22:53:48.507 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-19 22:53:48.678 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-04-19 22:53:49.128 [main]LoggerLoad-user in Arrays in Python page
+[INFO ]2023-04-19 22:53:49.607 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-19 22:53:50.385 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:50.735 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-19 22:53:51.777 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:52.399 [main]LoggerLoad-user is on basic operation page
+[INFO ]2023-04-19 22:53:52.406 [main]LoggerLoad-Title of current page is:Basic Operations in Lists
+[WARN ]2023-04-19 22:53:53.229 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:53.639 [main]LoggerLoad-Title of current page is:Applications of Array
+[INFO ]2023-04-19 22:53:54.088 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-19 22:53:54.478 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-19 22:53:54.771 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-19 22:53:54.886 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-19 22:53:54.909 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:54.910 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:55.309 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-19 22:53:57.765 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-19 22:53:57.934 [main]LoggerLoad-----------------User clicks on Graph Get started button----------------------
+[INFO ]2023-04-19 22:53:58.164 [main]LoggerLoad-----------------User is on Graph Page----------------------
+[INFO ]2023-04-19 22:53:58.181 [main]LoggerLoad-----------------User is on Graph Data Structure Page----------------------
+[INFO ]2023-04-19 22:53:58.183 [main]LoggerLoad-----------------User clicks on Graph link in Graph Page----------------------
+[INFO ]2023-04-19 22:53:58.361 [main]LoggerLoad-----------------User is re-directed to Graphlink of Graph Page----------------------
+[INFO ]2023-04-19 22:53:58.385 [main]LoggerLoad-----------------User is on Graph link of Graph Page----------------------
+[INFO ]2023-04-19 22:53:58.387 [main]LoggerLoad-----------------User clicks on Try here button----------------------
+[INFO ]2023-04-19 22:53:58.647 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-19 22:53:58.692 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-19 22:53:58.694 [main]LoggerLoad-----------------User enters Valid Python code----------------------
+[INFO ]2023-04-19 22:53:58.840 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-19 22:53:58.916 [main]LoggerLoad-----------------User is presented with the Result---------------------
+[INFO ]2023-04-19 22:53:58.968 [main]LoggerLoad----------------User is on graph Page---------------------
+[INFO ]2023-04-19 22:53:59.179 [main]LoggerLoad----------------User is NAVIGATED TO graph Page---------------------
+[INFO ]2023-04-19 22:53:59.181 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-19 22:53:59.381 [main]LoggerLoad---------------User is navigated to Graph Representations Page---------------------
+[INFO ]2023-04-19 22:53:59.413 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-19 22:53:59.414 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-19 22:53:59.669 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-19 22:53:59.691 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-19 22:53:59.693 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-19 22:53:59.815 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-19 22:53:59.908 [main]LoggerLoad-----------------User is presented with Error Message---------------------
+[WARN ]2023-04-19 22:53:59.924 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:53:59.941 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-19 22:53:59.942 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-19 22:54:00.105 [main]LoggerLoad---------------User is navigated to Practice Questions Page---------------------
+[INFO ]2023-04-19 22:54:00.267 [main]LoggerLoad-----------User is on Home Page of Dsalgo Portal------------------------
+[INFO ]2023-04-19 22:54:00.268 [main]LoggerLoad-----------User clicks on getstarted button------------------------
+[INFO ]2023-04-19 22:54:00.493 [main]LoggerLoad-----------User is navigated to Queue data structure------------------------
+[INFO ]2023-04-19 22:54:00.524 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:54:00.526 [main]LoggerLoad-----------User clicks on Implementation of Queue in Python------------------------
+[INFO ]2023-04-19 22:54:00.821 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-19 22:54:00.822 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:54:01.084 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:54:01.111 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:54:01.236 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:54:01.342 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:54:01.544 [main]LoggerLoad-----------User is navigated to Implementation of Queue in python------------------------
+[INFO ]2023-04-19 22:54:01.546 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:54:01.937 [main]LoggerLoad-----------clicks on Run Button------------------------
+[WARN ]2023-04-19 22:54:02.049 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-19 22:54:02.066 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:54:02.067 [main]LoggerLoad-----------User clicks on the Implementation using collections.deque link------------------------
+[INFO ]2023-04-19 22:54:02.194 [main]LoggerLoad-----------User is navigated to Implementation using collections.deque link-----------------------
+[INFO ]2023-04-19 22:54:02.216 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:54:02.440 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:54:02.474 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:54:02.615 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:54:02.723 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:54:02.789 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:54:02.933 [main]LoggerLoad-----------User is navigated to Implementation using array page-----------------------
+[INFO ]2023-04-19 22:54:02.964 [main]LoggerLoad-----------User is on Implementation using array page-----------------------
+[INFO ]2023-04-19 22:54:02.966 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:54:03.240 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:54:03.267 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:54:03.386 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:54:03.443 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:54:03.495 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-19 22:54:03.497 [main]LoggerLoad-----------User clicks on  Queue Operations link-----------------------
+[INFO ]2023-04-19 22:54:03.870 [main]LoggerLoad-----------User is navigated to Queue Operations Page-----------------------
+[INFO ]2023-04-19 22:54:03.903 [main]LoggerLoad-----------User is on QUeue Operations Page-----------------------
+[INFO ]2023-04-19 22:54:03.904 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-19 22:54:04.171 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-19 22:54:04.199 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-19 22:54:04.309 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-19 22:54:04.374 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-19 22:54:04.440 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-19 22:54:04.442 [main]LoggerLoad-----------User clicks on Practice Questions link-----------------------
+[INFO ]2023-04-19 22:54:04.632 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:10:40.545 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-20 14:10:44.575 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-20 14:10:45.297 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-20 14:11:15.671 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:11:17.686 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-20 14:11:18.626 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:11:18.986 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-20 14:11:20.277 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:11:50.478 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[WARN ]2023-04-20 14:11:52.428 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:12:22.702 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:12:23.983 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:12:24.574 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:12:25.054 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-20 14:12:25.191 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-20 14:12:25.205 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:12:25.205 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:12:25.846 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:12:28.482 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:16:58.322 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-20 14:17:00.884 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-20 14:17:02.130 [main]LoggerLoad-click on ds
+[INFO ]2023-04-20 14:17:02.454 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:17:02.515 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:17:02.621 [main]LoggerLoad-click LinkedList 
+[INFO ]2023-04-20 14:17:03.016 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:17:03.084 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:17:03.149 [main]LoggerLoad-click stack
+[INFO ]2023-04-20 14:17:03.434 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:17:03.459 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:17:03.485 [main]LoggerLoad-click  queue 
+[INFO ]2023-04-20 14:17:03.765 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:17:03.790 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:17:03.811 [main]LoggerLoad-click  Tree 
+[INFO ]2023-04-20 14:17:04.056 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:17:04.082 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:17:04.332 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:17:04.585 [main]LoggerLoad-Checking array logger in pom Arrays
+[INFO ]2023-04-20 14:17:04.585 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:17:04.589 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:17:04.784 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:17:05.000 [main]LoggerLoad-Checking linkedlist logger in pom Linked list
+[INFO ]2023-04-20 14:17:05.000 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:17:05.003 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:17:05.173 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:17:05.175 [main]LoggerLoad-Checking stack logger in pom Stack
+[INFO ]2023-04-20 14:17:05.359 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:17:05.362 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:17:05.587 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:17:05.789 [main]LoggerLoad-Checking queuelogger in pom Queue
+[INFO ]2023-04-20 14:17:05.790 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:17:05.792 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:17:06.020 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:17:06.261 [main]LoggerLoad-Checking tree logger in pom Tree
+[INFO ]2023-04-20 14:17:06.261 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:17:06.263 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:17:06.489 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:17:06.744 [main]LoggerLoad-Checking graph logger in pom Graph
+[INFO ]2023-04-20 14:17:06.744 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:17:06.746 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:17:06.780 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:17:06.983 [main]LoggerLoad-user is on signinpage sd
+[INFO ]2023-04-20 14:17:07.009 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:17:07.567 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:17:08.698 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:09.224 [main]LoggerLoad-Title of current page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:17:09.225 [main]LoggerLoad-Title of SubpageTitle page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:17:09.225 [main]LoggerLoad-User onOverview of Trees
+[INFO ]2023-04-20 14:17:09.721 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:17:09.721 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:17:09.721 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:17:09.951 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:17:10.329 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:10.354 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:17:10.984 [main]LoggerLoad-Please fill out username field
+[INFO ]2023-04-20 14:17:11.259 [main]LoggerLoad-Please fill out password  field
+[INFO ]2023-04-20 14:17:11.691 [main]LoggerLoad-Please fill out password confirmation field
+[INFO ]2023-04-20 14:17:13.863 [main]LoggerLoad-User Enter username as " $$$$ "and Password as " Numy123" Confirm password as" Numy123
+[INFO ]2023-04-20 14:17:14.441 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:14.442 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:14.613 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " abct56" Confirm password as" abcyyy5
+[INFO ]2023-04-20 14:17:15.208 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:15.208 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:15.375 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " 12345abc" Confirm password as" 12345abc
+[INFO ]2023-04-20 14:17:16.017 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:16.017 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:16.167 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " ffg12" Confirm password as" ffg12
+[INFO ]2023-04-20 14:17:16.780 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:16.780 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:17:16.948 [main]LoggerLoad-user is on login page
+[INFO ]2023-04-20 14:17:17.292 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:17:18.256 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:18.657 [main]LoggerLoad-Title of current page of tree is:Terminologies
+[INFO ]2023-04-20 14:17:18.658 [main]LoggerLoad-Title of SubpageTitle page of tree is:Terminologies
+[INFO ]2023-04-20 14:17:18.658 [main]LoggerLoad-User onTerminologies
+[INFO ]2023-04-20 14:17:18.895 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:17:18.895 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:17:18.895 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:17:19.133 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:17:19.505 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:19.541 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:17:20.025 [main]LoggerLoad-Usser is on signin page
+[INFO ]2023-04-20 14:17:20.379 [main]LoggerLoad-User succesfully rediredct to registerpage
+[INFO ]2023-04-20 14:17:20.418 [main]LoggerLoad-user is on register page SD
+[INFO ]2023-04-20 14:17:20.659 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:17:20.697 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:17:21.473 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:21.476 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:17:21.550 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:17:22.206 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:22.208 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:17:22.273 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:17:22.713 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:22.716 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:17:22.792 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:17:23.420 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:17:23.831 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:17:24.078 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:24.088 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:17:24.142 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:17:24.328 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:17:24.650 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:17:24.967 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:24.974 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:17:25.020 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:17:25.262 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:17:25.761 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:17:26.062 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:26.068 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:17:26.123 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:17:26.268 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:17:26.604 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:17:26.977 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:26.985 [main]LoggerLoad-message from soumya title page NumpyNinja
+[INFO ]2023-04-20 14:17:26.990 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:17:27.039 [main]LoggerLoad-user is on home page SD
+[INFO ]2023-04-20 14:17:27.237 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:17:27.610 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:17:28.484 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:17:28.910 [main]LoggerLoad-Title of current page of tree is:Types of Trees
+[INFO ]2023-04-20 14:17:28.910 [main]LoggerLoad-Title of SubpageTitle page of tree is:Types of Trees
+[INFO ]2023-04-20 14:17:28.910 [main]LoggerLoad-User onTypes of Trees
+[INFO ]2023-04-20 14:17:29.312 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:17:29.312 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:17:29.312 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:17:29.519 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:17:29.907 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:29.932 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:17:31.452 [main]LoggerLoad-user enter valid username and password pom ds
+[INFO ]2023-04-20 14:17:31.454 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:17:31.776 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:17:32.103 [main]LoggerLoad-The user should be redirected to Time Complexity page SDDS
+[INFO ]2023-04-20 14:17:32.134 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:17:40.673 [main]LoggerLoad-user try to do negative test
+[WARN ]2023-04-20 14:17:40.987 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:43.553 [main]LoggerLoad-user is on stack page SDST
+[INFO ]2023-04-20 14:17:44.222 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-04-20 14:17:44.269 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:17:44.637 [main]LoggerLoad-Title of current page is:Assessment
+[WARN ]2023-04-20 14:17:45.395 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:46.050 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:17:46.872 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-20 14:17:47.107 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-04-20 14:17:47.604 [main]LoggerLoad-user in Arrays in Python page
+[INFO ]2023-04-20 14:17:48.106 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-20 14:17:48.940 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:49.366 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-20 14:17:50.839 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:51.398 [main]LoggerLoad-user is on basic operation page
+[INFO ]2023-04-20 14:17:51.403 [main]LoggerLoad-Title of current page is:Basic Operations in Lists
+[WARN ]2023-04-20 14:17:52.453 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:52.938 [main]LoggerLoad-Title of current page is:Applications of Array
+[INFO ]2023-04-20 14:17:53.411 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:17:53.842 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:17:54.245 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-20 14:17:54.352 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-20 14:17:54.369 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:54.369 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:17:54.863 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:17:57.351 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:17:57.860 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:17:58.042 [main]LoggerLoad-----------------User clicks on Graph Get started button----------------------
+[INFO ]2023-04-20 14:17:58.304 [main]LoggerLoad-----------------User is on Graph Page----------------------
+[INFO ]2023-04-20 14:17:58.332 [main]LoggerLoad-----------------User is on Graph Data Structure Page----------------------
+[INFO ]2023-04-20 14:17:58.334 [main]LoggerLoad-----------------User clicks on Graph link in Graph Page----------------------
+[INFO ]2023-04-20 14:17:58.499 [main]LoggerLoad-----------------User is re-directed to Graphlink of Graph Page----------------------
+[INFO ]2023-04-20 14:17:58.528 [main]LoggerLoad-----------------User is on Graph link of Graph Page----------------------
+[INFO ]2023-04-20 14:17:58.530 [main]LoggerLoad-----------------User clicks on Try here button----------------------
+[INFO ]2023-04-20 14:17:58.846 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:17:58.873 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:17:58.875 [main]LoggerLoad-----------------User enters Valid Python code----------------------
+[INFO ]2023-04-20 14:17:59.022 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:17:59.131 [main]LoggerLoad-----------------User is presented with the Result---------------------
+[INFO ]2023-04-20 14:17:59.198 [main]LoggerLoad----------------User is on graph Page---------------------
+[INFO ]2023-04-20 14:17:59.353 [main]LoggerLoad----------------User is NAVIGATED TO graph Page---------------------
+[INFO ]2023-04-20 14:17:59.355 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:17:59.598 [main]LoggerLoad---------------User is navigated to Graph Representations Page---------------------
+[INFO ]2023-04-20 14:17:59.627 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:17:59.629 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:17:59.901 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:17:59.929 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:17:59.931 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:18:00.081 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:18:00.140 [main]LoggerLoad-----------------User is presented with Error Message---------------------
+[WARN ]2023-04-20 14:18:00.151 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:18:00.171 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:18:00.172 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:18:00.348 [main]LoggerLoad---------------User is navigated to Practice Questions Page---------------------
+[INFO ]2023-04-20 14:18:00.536 [main]LoggerLoad-----------User is on Home Page of Dsalgo Portal------------------------
+[INFO ]2023-04-20 14:18:00.538 [main]LoggerLoad-----------User clicks on getstarted button------------------------
+[INFO ]2023-04-20 14:18:00.755 [main]LoggerLoad-----------User is navigated to Queue data structure------------------------
+[INFO ]2023-04-20 14:18:00.779 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:18:00.780 [main]LoggerLoad-----------User clicks on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:18:01.193 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:18:01.194 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:18:01.588 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:18:01.621 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:18:01.843 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:18:01.946 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:18:02.176 [main]LoggerLoad-----------User is navigated to Implementation of Queue in python------------------------
+[INFO ]2023-04-20 14:18:02.179 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:18:02.615 [main]LoggerLoad-----------clicks on Run Button------------------------
+[WARN ]2023-04-20 14:18:02.761 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:18:02.782 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:18:02.783 [main]LoggerLoad-----------User clicks on the Implementation using collections.deque link------------------------
+[INFO ]2023-04-20 14:18:02.903 [main]LoggerLoad-----------User is navigated to Implementation using collections.deque link-----------------------
+[INFO ]2023-04-20 14:18:02.923 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:18:03.190 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:18:03.225 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:18:03.429 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:18:03.527 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:18:03.608 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:18:03.792 [main]LoggerLoad-----------User is navigated to Implementation using array page-----------------------
+[INFO ]2023-04-20 14:18:03.824 [main]LoggerLoad-----------User is on Implementation using array page-----------------------
+[INFO ]2023-04-20 14:18:03.825 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:18:04.098 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:18:04.122 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:18:04.259 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:18:04.325 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:18:04.398 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:18:04.400 [main]LoggerLoad-----------User clicks on  Queue Operations link-----------------------
+[INFO ]2023-04-20 14:18:04.581 [main]LoggerLoad-----------User is navigated to Queue Operations Page-----------------------
+[INFO ]2023-04-20 14:18:04.598 [main]LoggerLoad-----------User is on QUeue Operations Page-----------------------
+[INFO ]2023-04-20 14:18:04.599 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:18:04.835 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:18:04.851 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:18:04.944 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:18:05.004 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:18:05.065 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:18:05.067 [main]LoggerLoad-----------User clicks on Practice Questions link-----------------------
+[INFO ]2023-04-20 14:18:05.253 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:21:28.807 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-20 14:21:30.769 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-20 14:21:31.657 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-20 14:22:01.940 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:22:04.083 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-20 14:22:05.267 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:22:05.814 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-20 14:22:07.543 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:22:37.899 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[WARN ]2023-04-20 14:22:39.929 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:23:10.380 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:23:11.270 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:23:11.897 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:23:12.300 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-20 14:23:12.480 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-20 14:23:12.498 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:23:12.498 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:23:12.984 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:23:15.455 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:23:15.908 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:39:10.610 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-20 14:39:13.174 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-20 14:39:14.742 [main]LoggerLoad-click on ds
+[INFO ]2023-04-20 14:39:15.044 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:39:15.074 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:39:15.113 [main]LoggerLoad-click LinkedList 
+[INFO ]2023-04-20 14:39:15.429 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:39:15.462 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:39:15.494 [main]LoggerLoad-click stack
+[INFO ]2023-04-20 14:39:15.762 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:39:15.788 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:39:15.820 [main]LoggerLoad-click  queue 
+[INFO ]2023-04-20 14:39:16.153 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:39:16.178 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:39:16.199 [main]LoggerLoad-click  Tree 
+[INFO ]2023-04-20 14:39:16.474 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:39:16.501 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:39:16.683 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:39:16.934 [main]LoggerLoad-Checking array logger in pom Arrays
+[INFO ]2023-04-20 14:39:16.934 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:39:16.936 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:39:17.180 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:39:17.452 [main]LoggerLoad-Checking linkedlist logger in pom Linked list
+[INFO ]2023-04-20 14:39:17.453 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:39:17.455 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:39:17.613 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:39:17.615 [main]LoggerLoad-Checking stack logger in pom Stack
+[INFO ]2023-04-20 14:39:17.879 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:39:17.882 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:39:18.149 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:39:18.422 [main]LoggerLoad-Checking queuelogger in pom Queue
+[INFO ]2023-04-20 14:39:18.422 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:39:18.427 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:39:18.687 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:39:18.973 [main]LoggerLoad-Checking tree logger in pom Tree
+[INFO ]2023-04-20 14:39:18.973 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:39:18.976 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:39:19.183 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:39:19.551 [main]LoggerLoad-Checking graph logger in pom Graph
+[INFO ]2023-04-20 14:39:19.552 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:39:19.555 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:39:19.598 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:39:19.850 [main]LoggerLoad-user is on signinpage sd
+[INFO ]2023-04-20 14:39:19.868 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:39:20.427 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:39:21.631 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:22.188 [main]LoggerLoad-Title of current page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:39:22.188 [main]LoggerLoad-Title of SubpageTitle page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:39:22.188 [main]LoggerLoad-User onOverview of Trees
+[INFO ]2023-04-20 14:39:23.040 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:39:23.040 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:39:23.040 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:39:23.301 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:39:23.712 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:23.740 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:39:24.595 [main]LoggerLoad-Please fill out username field
+[INFO ]2023-04-20 14:39:24.999 [main]LoggerLoad-Please fill out password  field
+[INFO ]2023-04-20 14:39:25.470 [main]LoggerLoad-Please fill out password confirmation field
+[INFO ]2023-04-20 14:39:27.345 [main]LoggerLoad-User Enter username as " $$$$ "and Password as " Numy123" Confirm password as" Numy123
+[INFO ]2023-04-20 14:39:28.162 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:28.163 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:28.406 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " abct56" Confirm password as" abcyyy5
+[INFO ]2023-04-20 14:39:29.019 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:29.020 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:29.183 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " 12345abc" Confirm password as" 12345abc
+[INFO ]2023-04-20 14:39:29.810 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:29.810 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:29.989 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " ffg12" Confirm password as" ffg12
+[INFO ]2023-04-20 14:39:30.606 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:30.606 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:39:30.794 [main]LoggerLoad-user is on login page
+[INFO ]2023-04-20 14:39:31.273 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:39:32.245 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:32.661 [main]LoggerLoad-Title of current page of tree is:Terminologies
+[INFO ]2023-04-20 14:39:32.661 [main]LoggerLoad-Title of SubpageTitle page of tree is:Terminologies
+[INFO ]2023-04-20 14:39:32.661 [main]LoggerLoad-User onTerminologies
+[INFO ]2023-04-20 14:39:32.883 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:39:32.884 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:39:32.884 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:39:33.049 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:39:33.447 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:33.476 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:39:33.949 [main]LoggerLoad-Usser is on signin page
+[INFO ]2023-04-20 14:39:34.362 [main]LoggerLoad-User succesfully rediredct to registerpage
+[INFO ]2023-04-20 14:39:34.400 [main]LoggerLoad-user is on register page SD
+[INFO ]2023-04-20 14:39:34.679 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:39:34.704 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:39:35.503 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:35.506 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:39:35.567 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:39:36.004 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:36.007 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:39:36.069 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:39:36.527 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:36.531 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:39:36.614 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:39:36.816 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:39:37.158 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:39:37.445 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:37.454 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:39:37.536 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:39:37.719 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:39:38.271 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:39:38.543 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:38.550 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:39:38.633 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:39:38.831 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:39:39.139 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:39:39.482 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:39.488 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:39:39.567 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:39:39.749 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:39:40.233 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:39:40.818 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:40.832 [main]LoggerLoad-message from soumya title page NumpyNinja
+[INFO ]2023-04-20 14:39:40.839 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:39:40.893 [main]LoggerLoad-user is on home page SD
+[INFO ]2023-04-20 14:39:41.263 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:39:41.816 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:39:43.097 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:39:43.752 [main]LoggerLoad-Title of current page of tree is:Types of Trees
+[INFO ]2023-04-20 14:39:43.752 [main]LoggerLoad-Title of SubpageTitle page of tree is:Types of Trees
+[INFO ]2023-04-20 14:39:43.753 [main]LoggerLoad-User onTypes of Trees
+[INFO ]2023-04-20 14:39:44.201 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:39:44.202 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:39:44.202 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:39:44.430 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:39:45.073 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:45.095 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:39:46.562 [main]LoggerLoad-user enter valid username and password pom ds
+[INFO ]2023-04-20 14:39:46.566 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:39:46.825 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:39:47.176 [main]LoggerLoad-The user should be redirected to Time Complexity page SDDS
+[INFO ]2023-04-20 14:39:47.217 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:39:48.256 [main]LoggerLoad-user try to do negative test
+[WARN ]2023-04-20 14:39:48.496 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:48.946 [main]LoggerLoad-user is on stack page SDST
+[INFO ]2023-04-20 14:39:49.448 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-04-20 14:39:49.468 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:39:49.787 [main]LoggerLoad-Title of current page is:Assessment
+[WARN ]2023-04-20 14:39:50.542 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:50.996 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:39:51.325 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-20 14:39:51.605 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-04-20 14:39:52.167 [main]LoggerLoad-user in Arrays in Python page
+[INFO ]2023-04-20 14:39:52.786 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-20 14:39:53.644 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:54.219 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-20 14:39:55.660 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:56.163 [main]LoggerLoad-user is on basic operation page
+[INFO ]2023-04-20 14:39:56.171 [main]LoggerLoad-Title of current page is:Basic Operations in Lists
+[WARN ]2023-04-20 14:39:57.093 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:57.525 [main]LoggerLoad-Title of current page is:Applications of Array
+[INFO ]2023-04-20 14:39:58.018 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:39:58.461 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:39:58.748 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-20 14:39:58.869 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-20 14:39:58.884 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:58.885 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:39:59.386 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:40:01.857 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:40:02.357 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:40:03.499 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:40:03.726 [main]LoggerLoad-----------------User clicks on Graph Get started button----------------------
+[INFO ]2023-04-20 14:40:04.013 [main]LoggerLoad-----------------User is on Graph Page----------------------
+[INFO ]2023-04-20 14:40:04.043 [main]LoggerLoad-----------------User is on Graph Data Structure Page----------------------
+[INFO ]2023-04-20 14:40:04.044 [main]LoggerLoad-----------------User clicks on Graph link in Graph Page----------------------
+[INFO ]2023-04-20 14:40:04.236 [main]LoggerLoad-----------------User is re-directed to Graphlink of Graph Page----------------------
+[INFO ]2023-04-20 14:40:04.270 [main]LoggerLoad-----------------User is on Graph link of Graph Page----------------------
+[INFO ]2023-04-20 14:40:04.272 [main]LoggerLoad-----------------User clicks on Try here button----------------------
+[INFO ]2023-04-20 14:40:04.615 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:40:04.636 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:40:04.637 [main]LoggerLoad-----------------User enters Valid Python code----------------------
+[INFO ]2023-04-20 14:40:04.771 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:40:04.871 [main]LoggerLoad-----------------User is presented with the Result---------------------
+[INFO ]2023-04-20 14:40:04.935 [main]LoggerLoad----------------User is on graph Page---------------------
+[INFO ]2023-04-20 14:40:05.155 [main]LoggerLoad----------------User is NAVIGATED TO graph Page---------------------
+[INFO ]2023-04-20 14:40:05.157 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:40:05.437 [main]LoggerLoad---------------User is navigated to Graph Representations Page---------------------
+[INFO ]2023-04-20 14:40:05.468 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:40:05.471 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:40:05.731 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:40:05.757 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:40:05.758 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:40:05.878 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:40:05.984 [main]LoggerLoad-----------------User is presented with Error Message---------------------
+[WARN ]2023-04-20 14:40:05.998 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:40:06.019 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:40:06.020 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:40:06.137 [main]LoggerLoad---------------User is navigated to Practice Questions Page---------------------
+[INFO ]2023-04-20 14:40:06.327 [main]LoggerLoad-----------User is on Home Page of Dsalgo Portal------------------------
+[INFO ]2023-04-20 14:40:06.329 [main]LoggerLoad-----------User clicks on getstarted button------------------------
+[INFO ]2023-04-20 14:40:06.566 [main]LoggerLoad-----------User is navigated to Queue data structure------------------------
+[INFO ]2023-04-20 14:40:06.599 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:40:06.601 [main]LoggerLoad-----------User clicks on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:40:06.945 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:40:06.948 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:40:07.371 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:40:07.386 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:40:07.462 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:40:07.570 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:40:07.854 [main]LoggerLoad-----------User is navigated to Implementation of Queue in python------------------------
+[INFO ]2023-04-20 14:40:07.856 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:40:08.288 [main]LoggerLoad-----------clicks on Run Button------------------------
+[WARN ]2023-04-20 14:40:08.364 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:40:08.384 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:40:08.386 [main]LoggerLoad-----------User clicks on the Implementation using collections.deque link------------------------
+[INFO ]2023-04-20 14:40:08.584 [main]LoggerLoad-----------User is navigated to Implementation using collections.deque link-----------------------
+[INFO ]2023-04-20 14:40:08.614 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:40:08.884 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:40:08.908 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:40:09.037 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:40:09.144 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:40:09.202 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:40:09.390 [main]LoggerLoad-----------User is navigated to Implementation using array page-----------------------
+[INFO ]2023-04-20 14:40:09.419 [main]LoggerLoad-----------User is on Implementation using array page-----------------------
+[INFO ]2023-04-20 14:40:09.421 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:40:09.697 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:40:09.734 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:40:09.903 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:40:09.974 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:40:10.039 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:40:10.040 [main]LoggerLoad-----------User clicks on  Queue Operations link-----------------------
+[INFO ]2023-04-20 14:40:10.223 [main]LoggerLoad-----------User is navigated to Queue Operations Page-----------------------
+[INFO ]2023-04-20 14:40:10.256 [main]LoggerLoad-----------User is on QUeue Operations Page-----------------------
+[INFO ]2023-04-20 14:40:10.258 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:40:10.565 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:40:10.607 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:40:10.734 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:40:10.831 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:40:10.894 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:40:10.895 [main]LoggerLoad-----------User clicks on Practice Questions link-----------------------
+[INFO ]2023-04-20 14:40:11.140 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:43:31.827 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-20 14:43:33.814 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-20 14:43:35.287 [main]LoggerLoad-click on ds
+[INFO ]2023-04-20 14:43:35.610 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:43:35.640 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:43:35.681 [main]LoggerLoad-click LinkedList 
+[INFO ]2023-04-20 14:43:35.957 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:43:35.986 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:43:36.015 [main]LoggerLoad-click stack
+[INFO ]2023-04-20 14:43:36.287 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:43:36.315 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:43:36.341 [main]LoggerLoad-click  queue 
+[INFO ]2023-04-20 14:43:36.625 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:43:36.653 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:43:36.699 [main]LoggerLoad-click  Tree 
+[INFO ]2023-04-20 14:43:36.998 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:43:37.027 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:43:37.244 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:43:37.528 [main]LoggerLoad-Checking array logger in pom Arrays
+[INFO ]2023-04-20 14:43:37.528 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:43:37.531 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:43:37.732 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:43:38.013 [main]LoggerLoad-Checking linkedlist logger in pom Linked list
+[INFO ]2023-04-20 14:43:38.014 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:43:38.016 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:43:38.277 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:43:38.281 [main]LoggerLoad-Checking stack logger in pom Stack
+[INFO ]2023-04-20 14:43:38.538 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:43:38.541 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:43:38.775 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:43:39.044 [main]LoggerLoad-Checking queuelogger in pom Queue
+[INFO ]2023-04-20 14:43:39.044 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:43:39.047 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:43:39.287 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:43:39.586 [main]LoggerLoad-Checking tree logger in pom Tree
+[INFO ]2023-04-20 14:43:39.586 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:43:39.588 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:43:39.832 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:43:40.123 [main]LoggerLoad-Checking graph logger in pom Graph
+[INFO ]2023-04-20 14:43:40.123 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:43:40.124 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:43:40.144 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:43:40.445 [main]LoggerLoad-user is on signinpage sd
+[INFO ]2023-04-20 14:43:40.475 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:43:41.208 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:43:42.536 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:43:43.764 [main]LoggerLoad-Title of current page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:43:43.764 [main]LoggerLoad-Title of SubpageTitle page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:43:43.765 [main]LoggerLoad-User onOverview of Trees
+[INFO ]2023-04-20 14:43:44.837 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:43:44.837 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:43:44.837 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:43:45.125 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:43:45.533 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:43:45.566 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:43:46.308 [main]LoggerLoad-Please fill out username field
+[INFO ]2023-04-20 14:43:46.616 [main]LoggerLoad-Please fill out password  field
+[INFO ]2023-04-20 14:43:47.049 [main]LoggerLoad-Please fill out password confirmation field
+[INFO ]2023-04-20 14:43:48.936 [main]LoggerLoad-User Enter username as " $$$$ "and Password as " Numy123" Confirm password as" Numy123
+[INFO ]2023-04-20 14:43:49.791 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:49.791 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:49.999 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " abct56" Confirm password as" abcyyy5
+[INFO ]2023-04-20 14:43:50.675 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:50.675 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:50.854 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " 12345abc" Confirm password as" 12345abc
+[INFO ]2023-04-20 14:43:51.533 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:51.534 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:51.692 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " ffg12" Confirm password as" ffg12
+[INFO ]2023-04-20 14:43:52.495 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:52.496 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:43:52.709 [main]LoggerLoad-user is on login page
+[INFO ]2023-04-20 14:43:53.158 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:43:54.081 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:43:55.013 [main]LoggerLoad-Title of current page of tree is:Terminologies
+[INFO ]2023-04-20 14:43:55.013 [main]LoggerLoad-Title of SubpageTitle page of tree is:Terminologies
+[INFO ]2023-04-20 14:43:55.014 [main]LoggerLoad-User onTerminologies
+[INFO ]2023-04-20 14:43:55.357 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:43:55.357 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:43:55.357 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:43:55.601 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:43:55.971 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:43:55.992 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:43:56.463 [main]LoggerLoad-Usser is on signin page
+[INFO ]2023-04-20 14:43:56.861 [main]LoggerLoad-User succesfully rediredct to registerpage
+[INFO ]2023-04-20 14:43:56.895 [main]LoggerLoad-user is on register page SD
+[INFO ]2023-04-20 14:43:57.187 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:43:57.209 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:43:57.991 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:43:57.992 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:43:58.089 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:43:58.639 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:43:58.641 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:43:58.708 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:43:59.171 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:43:59.174 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:43:59.254 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:43:59.433 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:43:59.959 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:44:00.255 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:44:00.260 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:44:00.339 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:44:00.547 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:44:01.112 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:44:01.352 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:44:01.358 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:44:01.443 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:44:01.667 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:44:02.082 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:44:02.393 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:44:02.399 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:44:02.466 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:44:02.709 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:44:03.118 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:44:03.626 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:44:03.638 [main]LoggerLoad-message from soumya title page NumpyNinja
+[INFO ]2023-04-20 14:44:03.651 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:44:03.715 [main]LoggerLoad-user is on home page SD
+[INFO ]2023-04-20 14:44:04.143 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:44:04.791 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:44:05.920 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:44:07.199 [main]LoggerLoad-Title of current page of tree is:Types of Trees
+[INFO ]2023-04-20 14:44:07.199 [main]LoggerLoad-Title of SubpageTitle page of tree is:Types of Trees
+[INFO ]2023-04-20 14:44:07.199 [main]LoggerLoad-User onTypes of Trees
+[INFO ]2023-04-20 14:44:07.490 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:44:07.490 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:44:07.490 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:44:07.684 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:44:08.015 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:08.044 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:44:09.635 [main]LoggerLoad-user enter valid username and password pom ds
+[INFO ]2023-04-20 14:44:09.637 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:44:09.992 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:44:10.314 [main]LoggerLoad-The user should be redirected to Time Complexity page SDDS
+[INFO ]2023-04-20 14:44:10.345 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:44:11.490 [main]LoggerLoad-user try to do negative test
+[WARN ]2023-04-20 14:44:11.742 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:12.143 [main]LoggerLoad-user is on stack page SDST
+[INFO ]2023-04-20 14:44:12.529 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-04-20 14:44:12.546 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:44:12.899 [main]LoggerLoad-Title of current page is:Assessment
+[WARN ]2023-04-20 14:44:13.598 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:14.019 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:44:14.384 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-20 14:44:14.604 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-04-20 14:44:15.117 [main]LoggerLoad-user in Arrays in Python page
+[INFO ]2023-04-20 14:44:15.568 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-20 14:44:16.535 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:16.995 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-20 14:44:18.521 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:19.107 [main]LoggerLoad-user is on basic operation page
+[INFO ]2023-04-20 14:44:19.113 [main]LoggerLoad-Title of current page is:Basic Operations in Lists
+[WARN ]2023-04-20 14:44:20.215 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:20.706 [main]LoggerLoad-Title of current page is:Applications of Array
+[INFO ]2023-04-20 14:44:21.212 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:44:21.709 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:44:22.086 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-20 14:44:22.176 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-20 14:44:22.188 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:22.189 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:22.631 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:44:25.114 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:44:25.604 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:44:26.719 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:44:26.981 [main]LoggerLoad-----------------User clicks on Graph Get started button----------------------
+[INFO ]2023-04-20 14:44:27.289 [main]LoggerLoad-----------------User is on Graph Page----------------------
+[INFO ]2023-04-20 14:44:27.316 [main]LoggerLoad-----------------User is on Graph Data Structure Page----------------------
+[INFO ]2023-04-20 14:44:27.318 [main]LoggerLoad-----------------User clicks on Graph link in Graph Page----------------------
+[INFO ]2023-04-20 14:44:27.526 [main]LoggerLoad-----------------User is re-directed to Graphlink of Graph Page----------------------
+[INFO ]2023-04-20 14:44:27.543 [main]LoggerLoad-----------------User is on Graph link of Graph Page----------------------
+[INFO ]2023-04-20 14:44:27.544 [main]LoggerLoad-----------------User clicks on Try here button----------------------
+[INFO ]2023-04-20 14:44:27.902 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:44:27.934 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:44:27.936 [main]LoggerLoad-----------------User enters Valid Python code----------------------
+[INFO ]2023-04-20 14:44:28.143 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:44:28.233 [main]LoggerLoad-----------------User is presented with the Result---------------------
+[INFO ]2023-04-20 14:44:28.287 [main]LoggerLoad----------------User is on graph Page---------------------
+[INFO ]2023-04-20 14:44:28.448 [main]LoggerLoad----------------User is NAVIGATED TO graph Page---------------------
+[INFO ]2023-04-20 14:44:28.450 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:44:28.783 [main]LoggerLoad---------------User is navigated to Graph Representations Page---------------------
+[INFO ]2023-04-20 14:44:28.822 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:44:28.824 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:44:29.211 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:44:29.242 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:44:29.243 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:44:29.385 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:44:29.501 [main]LoggerLoad-----------------User is presented with Error Message---------------------
+[WARN ]2023-04-20 14:44:29.512 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:29.526 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:44:29.528 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:44:29.699 [main]LoggerLoad---------------User is navigated to Practice Questions Page---------------------
+[INFO ]2023-04-20 14:44:29.881 [main]LoggerLoad-----------User is on Home Page of Dsalgo Portal------------------------
+[INFO ]2023-04-20 14:44:29.883 [main]LoggerLoad-----------User clicks on getstarted button------------------------
+[INFO ]2023-04-20 14:44:30.116 [main]LoggerLoad-----------User is navigated to Queue data structure------------------------
+[INFO ]2023-04-20 14:44:30.147 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:44:30.149 [main]LoggerLoad-----------User clicks on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:44:30.526 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:44:30.527 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:44:30.837 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:44:30.858 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:44:31.001 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:44:31.122 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:44:31.346 [main]LoggerLoad-----------User is navigated to Implementation of Queue in python------------------------
+[INFO ]2023-04-20 14:44:31.348 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:44:31.738 [main]LoggerLoad-----------clicks on Run Button------------------------
+[WARN ]2023-04-20 14:44:31.850 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:44:31.867 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:44:31.868 [main]LoggerLoad-----------User clicks on the Implementation using collections.deque link------------------------
+[INFO ]2023-04-20 14:44:32.005 [main]LoggerLoad-----------User is navigated to Implementation using collections.deque link-----------------------
+[INFO ]2023-04-20 14:44:32.033 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:44:32.336 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:44:32.364 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:44:32.529 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:44:32.637 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:44:32.704 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:44:32.888 [main]LoggerLoad-----------User is navigated to Implementation using array page-----------------------
+[INFO ]2023-04-20 14:44:32.904 [main]LoggerLoad-----------User is on Implementation using array page-----------------------
+[INFO ]2023-04-20 14:44:32.905 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:44:33.291 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:44:33.318 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:44:33.468 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:44:33.531 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:44:33.563 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:44:33.563 [main]LoggerLoad-----------User clicks on  Queue Operations link-----------------------
+[INFO ]2023-04-20 14:44:33.748 [main]LoggerLoad-----------User is navigated to Queue Operations Page-----------------------
+[INFO ]2023-04-20 14:44:33.778 [main]LoggerLoad-----------User is on QUeue Operations Page-----------------------
+[INFO ]2023-04-20 14:44:33.779 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:44:34.128 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:44:34.166 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:44:34.311 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:44:34.404 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:44:34.454 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:44:34.455 [main]LoggerLoad-----------User clicks on Practice Questions link-----------------------
+[INFO ]2023-04-20 14:44:35.230 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:45:18.282 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-20 14:45:20.364 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-20 14:45:21.729 [main]LoggerLoad-click on ds
+[INFO ]2023-04-20 14:45:21.992 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:45:22.022 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:45:22.062 [main]LoggerLoad-click LinkedList 
+[INFO ]2023-04-20 14:45:22.351 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:45:22.381 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:45:22.416 [main]LoggerLoad-click stack
+[INFO ]2023-04-20 14:45:22.773 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:45:22.807 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:45:22.832 [main]LoggerLoad-click  queue 
+[INFO ]2023-04-20 14:45:23.164 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:45:23.195 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:45:23.219 [main]LoggerLoad-click  Tree 
+[INFO ]2023-04-20 14:45:23.508 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:45:23.538 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:45:23.741 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:45:24.053 [main]LoggerLoad-Checking array logger in pom Arrays
+[INFO ]2023-04-20 14:45:24.053 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:45:24.057 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:45:24.245 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:45:24.490 [main]LoggerLoad-Checking linkedlist logger in pom Linked list
+[INFO ]2023-04-20 14:45:24.490 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:45:24.493 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:45:24.720 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:45:24.723 [main]LoggerLoad-Checking stack logger in pom Stack
+[INFO ]2023-04-20 14:45:24.985 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:45:24.989 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:45:25.223 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:45:25.431 [main]LoggerLoad-Checking queuelogger in pom Queue
+[INFO ]2023-04-20 14:45:25.431 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:45:25.434 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:45:25.715 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:45:25.993 [main]LoggerLoad-Checking tree logger in pom Tree
+[INFO ]2023-04-20 14:45:25.993 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:45:25.997 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:45:26.223 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:45:26.518 [main]LoggerLoad-Checking graph logger in pom Graph
+[INFO ]2023-04-20 14:45:26.519 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:45:26.521 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:45:26.565 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:45:26.809 [main]LoggerLoad-user is on signinpage sd
+[INFO ]2023-04-20 14:45:26.844 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:45:27.536 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:45:28.683 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:29.247 [main]LoggerLoad-Title of current page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:45:29.247 [main]LoggerLoad-Title of SubpageTitle page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:45:29.248 [main]LoggerLoad-User onOverview of Trees
+[INFO ]2023-04-20 14:45:30.036 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:45:30.037 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:45:30.037 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:45:30.283 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:45:30.632 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:45:30.653 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:45:31.501 [main]LoggerLoad-Please fill out username field
+[INFO ]2023-04-20 14:45:31.878 [main]LoggerLoad-Please fill out password  field
+[INFO ]2023-04-20 14:45:32.347 [main]LoggerLoad-Please fill out password confirmation field
+[INFO ]2023-04-20 14:45:33.867 [main]LoggerLoad-User Enter username as " $$$$ "and Password as " Numy123" Confirm password as" Numy123
+[INFO ]2023-04-20 14:45:34.650 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:34.650 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:34.844 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " abct56" Confirm password as" abcyyy5
+[INFO ]2023-04-20 14:45:35.572 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:35.572 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:35.791 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " 12345abc" Confirm password as" 12345abc
+[INFO ]2023-04-20 14:45:36.516 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:36.516 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:36.678 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " ffg12" Confirm password as" ffg12
+[INFO ]2023-04-20 14:45:37.434 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:37.434 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:45:37.626 [main]LoggerLoad-user is on login page
+[INFO ]2023-04-20 14:45:37.965 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:45:39.131 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:39.565 [main]LoggerLoad-Title of current page of tree is:Terminologies
+[INFO ]2023-04-20 14:45:39.565 [main]LoggerLoad-Title of SubpageTitle page of tree is:Terminologies
+[INFO ]2023-04-20 14:45:39.566 [main]LoggerLoad-User onTerminologies
+[INFO ]2023-04-20 14:45:39.877 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:45:39.877 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:45:39.878 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:45:40.118 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:45:40.528 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:45:40.563 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:45:41.060 [main]LoggerLoad-Usser is on signin page
+[INFO ]2023-04-20 14:45:41.581 [main]LoggerLoad-User succesfully rediredct to registerpage
+[INFO ]2023-04-20 14:45:41.611 [main]LoggerLoad-user is on register page SD
+[INFO ]2023-04-20 14:45:41.899 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:45:41.934 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:45:42.796 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:42.798 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:45:42.871 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:45:43.369 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:43.373 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:45:43.438 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:45:43.833 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:43.835 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:45:43.913 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:45:44.079 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:45:44.601 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:45:44.861 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:44.881 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:45:44.967 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:45:45.142 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:45:45.605 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:45:45.859 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:45.865 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:45:45.924 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:45:46.093 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:45:46.378 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:45:46.826 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:46.833 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:45:46.891 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:45:47.088 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:45:47.438 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:45:47.875 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:47.883 [main]LoggerLoad-message from soumya title page NumpyNinja
+[INFO ]2023-04-20 14:45:47.889 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:45:47.931 [main]LoggerLoad-user is on home page SD
+[INFO ]2023-04-20 14:45:48.396 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:45:48.967 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:45:50.038 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:45:50.492 [main]LoggerLoad-Title of current page of tree is:Types of Trees
+[INFO ]2023-04-20 14:45:50.492 [main]LoggerLoad-Title of SubpageTitle page of tree is:Types of Trees
+[INFO ]2023-04-20 14:45:50.493 [main]LoggerLoad-User onTypes of Trees
+[INFO ]2023-04-20 14:45:50.719 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:45:50.719 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:45:50.719 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:45:50.947 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:45:51.240 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:45:51.264 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:45:53.045 [main]LoggerLoad-user enter valid username and password pom ds
+[INFO ]2023-04-20 14:45:53.046 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:45:53.337 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:45:53.620 [main]LoggerLoad-The user should be redirected to Time Complexity page SDDS
+[INFO ]2023-04-20 14:45:53.656 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:45:55.012 [main]LoggerLoad-user try to do negative test
+[WARN ]2023-04-20 14:45:55.224 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:45:55.602 [main]LoggerLoad-user is on stack page SDST
+[INFO ]2023-04-20 14:45:56.074 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-04-20 14:45:56.113 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:45:56.385 [main]LoggerLoad-Title of current page is:Assessment
+[WARN ]2023-04-20 14:45:57.135 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:45:57.582 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:45:57.939 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-20 14:45:58.344 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-04-20 14:45:58.933 [main]LoggerLoad-user in Arrays in Python page
+[INFO ]2023-04-20 14:45:59.587 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-20 14:46:00.538 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:46:01.136 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-20 14:46:02.720 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:46:03.311 [main]LoggerLoad-user is on basic operation page
+[INFO ]2023-04-20 14:46:03.324 [main]LoggerLoad-Title of current page is:Basic Operations in Lists
+[WARN ]2023-04-20 14:46:04.460 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:46:04.953 [main]LoggerLoad-Title of current page is:Applications of Array
+[INFO ]2023-04-20 14:46:05.514 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:46:06.049 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:46:06.432 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-20 14:46:06.486 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-20 14:46:06.500 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:46:06.500 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:46:06.947 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:46:09.479 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:46:09.993 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:46:11.074 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:46:11.347 [main]LoggerLoad-----------------User clicks on Graph Get started button----------------------
+[INFO ]2023-04-20 14:46:11.724 [main]LoggerLoad-----------------User is on Graph Page----------------------
+[INFO ]2023-04-20 14:46:11.745 [main]LoggerLoad-----------------User is on Graph Data Structure Page----------------------
+[INFO ]2023-04-20 14:46:11.747 [main]LoggerLoad-----------------User clicks on Graph link in Graph Page----------------------
+[INFO ]2023-04-20 14:46:11.945 [main]LoggerLoad-----------------User is re-directed to Graphlink of Graph Page----------------------
+[INFO ]2023-04-20 14:46:11.971 [main]LoggerLoad-----------------User is on Graph link of Graph Page----------------------
+[INFO ]2023-04-20 14:46:11.974 [main]LoggerLoad-----------------User clicks on Try here button----------------------
+[INFO ]2023-04-20 14:46:12.440 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:46:12.475 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:46:12.477 [main]LoggerLoad-----------------User enters Valid Python code----------------------
+[INFO ]2023-04-20 14:46:12.697 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:46:12.765 [main]LoggerLoad-----------------User is presented with the Result---------------------
+[INFO ]2023-04-20 14:46:12.857 [main]LoggerLoad----------------User is on graph Page---------------------
+[INFO ]2023-04-20 14:46:13.085 [main]LoggerLoad----------------User is NAVIGATED TO graph Page---------------------
+[INFO ]2023-04-20 14:46:13.087 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:46:13.324 [main]LoggerLoad---------------User is navigated to Graph Representations Page---------------------
+[INFO ]2023-04-20 14:46:13.348 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:46:13.351 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:46:13.649 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:46:13.675 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:46:13.677 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:46:13.835 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:46:13.896 [main]LoggerLoad-----------------User is presented with Error Message---------------------
+[WARN ]2023-04-20 14:46:13.914 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:46:13.933 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:46:13.934 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:46:14.078 [main]LoggerLoad---------------User is navigated to Practice Questions Page---------------------
+[INFO ]2023-04-20 14:46:14.381 [main]LoggerLoad-----------User is on Home Page of Dsalgo Portal------------------------
+[INFO ]2023-04-20 14:46:14.382 [main]LoggerLoad-----------User clicks on getstarted button------------------------
+[INFO ]2023-04-20 14:46:14.635 [main]LoggerLoad-----------User is navigated to Queue data structure------------------------
+[INFO ]2023-04-20 14:46:14.661 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:46:14.662 [main]LoggerLoad-----------User clicks on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:46:14.982 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:46:14.983 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:46:15.303 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:46:15.331 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:46:15.484 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:46:15.585 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:46:15.773 [main]LoggerLoad-----------User is navigated to Implementation of Queue in python------------------------
+[INFO ]2023-04-20 14:46:15.775 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:46:16.187 [main]LoggerLoad-----------clicks on Run Button------------------------
+[WARN ]2023-04-20 14:46:16.303 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:46:16.332 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:46:16.333 [main]LoggerLoad-----------User clicks on the Implementation using collections.deque link------------------------
+[INFO ]2023-04-20 14:46:16.633 [main]LoggerLoad-----------User is navigated to Implementation using collections.deque link-----------------------
+[INFO ]2023-04-20 14:46:16.678 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:46:17.200 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:46:17.245 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:46:17.460 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:46:17.540 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:46:17.589 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:46:17.782 [main]LoggerLoad-----------User is navigated to Implementation using array page-----------------------
+[INFO ]2023-04-20 14:46:17.819 [main]LoggerLoad-----------User is on Implementation using array page-----------------------
+[INFO ]2023-04-20 14:46:17.821 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:46:18.208 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:46:18.238 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:46:18.539 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:46:18.665 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:46:18.754 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:46:18.756 [main]LoggerLoad-----------User clicks on  Queue Operations link-----------------------
+[INFO ]2023-04-20 14:46:18.993 [main]LoggerLoad-----------User is navigated to Queue Operations Page-----------------------
+[INFO ]2023-04-20 14:46:19.009 [main]LoggerLoad-----------User is on QUeue Operations Page-----------------------
+[INFO ]2023-04-20 14:46:19.011 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:46:19.223 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:46:19.256 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:46:19.491 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:46:19.600 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:46:19.675 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:46:19.677 [main]LoggerLoad-----------User clicks on Practice Questions link-----------------------
+[INFO ]2023-04-20 14:46:19.970 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-04-20 14:47:44.767 [main]LoggerLoad-Loading Config file
+[INFO ]2023-04-20 14:47:46.864 [main]LoggerLoad-IntializingChromedriver
+[INFO ]2023-04-20 14:47:48.193 [main]LoggerLoad-click on ds
+[INFO ]2023-04-20 14:47:48.476 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:47:48.506 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:47:48.538 [main]LoggerLoad-click LinkedList 
+[INFO ]2023-04-20 14:47:48.950 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:47:48.977 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:47:49.000 [main]LoggerLoad-click stack
+[INFO ]2023-04-20 14:47:49.281 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:47:49.314 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:47:49.344 [main]LoggerLoad-click  queue 
+[INFO ]2023-04-20 14:47:49.632 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:47:49.656 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:47:49.679 [main]LoggerLoad-click  Tree 
+[INFO ]2023-04-20 14:47:49.969 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:47:50.002 [main]LoggerLoad-alert you are not allow to login
+[INFO ]2023-04-20 14:47:50.237 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:47:50.565 [main]LoggerLoad-Checking array logger in pom Arrays
+[INFO ]2023-04-20 14:47:50.565 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:47:50.567 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:47:50.799 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:47:51.063 [main]LoggerLoad-Checking linkedlist logger in pom Linked list
+[INFO ]2023-04-20 14:47:51.063 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:47:51.064 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:47:51.343 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:47:51.347 [main]LoggerLoad-Checking stack logger in pom Stack
+[INFO ]2023-04-20 14:47:51.670 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:47:51.674 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:47:51.909 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:47:52.263 [main]LoggerLoad-Checking queuelogger in pom Queue
+[INFO ]2023-04-20 14:47:52.264 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:47:52.267 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:47:52.503 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:47:52.852 [main]LoggerLoad-Checking tree logger in pom Tree
+[INFO ]2023-04-20 14:47:52.852 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:47:52.853 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:47:53.114 [main]LoggerLoad-click on data structure dropdown sd
+[INFO ]2023-04-20 14:47:53.401 [main]LoggerLoad-Checking graph logger in pom Graph
+[INFO ]2023-04-20 14:47:53.401 [main]LoggerLoad-click on each dropdown sd
+[INFO ]2023-04-20 14:47:53.403 [main]LoggerLoad-you are not logged in sd
+[INFO ]2023-04-20 14:47:53.433 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:47:53.716 [main]LoggerLoad-user is on signinpage sd
+[INFO ]2023-04-20 14:47:53.744 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:47:54.429 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:47:55.780 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:47:56.381 [main]LoggerLoad-Title of current page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:47:56.382 [main]LoggerLoad-Title of SubpageTitle page of tree is:Overview of Trees
+[INFO ]2023-04-20 14:47:56.382 [main]LoggerLoad-User onOverview of Trees
+[INFO ]2023-04-20 14:47:57.300 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:47:57.300 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:47:57.300 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:47:57.537 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:47:57.978 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:47:58.007 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:47:58.904 [main]LoggerLoad-Please fill out username field
+[INFO ]2023-04-20 14:47:59.283 [main]LoggerLoad-Please fill out password  field
+[INFO ]2023-04-20 14:47:59.730 [main]LoggerLoad-Please fill out password confirmation field
+[INFO ]2023-04-20 14:48:01.623 [main]LoggerLoad-User Enter username as " $$$$ "and Password as " Numy123" Confirm password as" Numy123
+[INFO ]2023-04-20 14:48:02.293 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:02.293 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:02.476 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " abct56" Confirm password as" abcyyy5
+[INFO ]2023-04-20 14:48:03.199 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:03.200 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:03.358 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " 12345abc" Confirm password as" 12345abc
+[INFO ]2023-04-20 14:48:04.035 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:04.035 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:04.201 [main]LoggerLoad-User Enter username as " bahnisikha.dalbehera@gmail.com "and Password as " ffg12" Confirm password as" ffg12
+[INFO ]2023-04-20 14:48:04.893 [main]LoggerLoad-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:04.894 [main]LoggerLoad-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+[INFO ]2023-04-20 14:48:05.104 [main]LoggerLoad-user is on login page
+[INFO ]2023-04-20 14:48:05.638 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:48:06.613 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:07.119 [main]LoggerLoad-Title of current page of tree is:Terminologies
+[INFO ]2023-04-20 14:48:07.119 [main]LoggerLoad-Title of SubpageTitle page of tree is:Terminologies
+[INFO ]2023-04-20 14:48:07.120 [main]LoggerLoad-User onTerminologies
+[INFO ]2023-04-20 14:48:07.473 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:48:07.474 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:48:07.474 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:48:07.725 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:48:08.111 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:08.136 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:48:08.717 [main]LoggerLoad-Usser is on signin page
+[INFO ]2023-04-20 14:48:09.069 [main]LoggerLoad-User succesfully rediredct to registerpage
+[INFO ]2023-04-20 14:48:09.094 [main]LoggerLoad-user is on register page SD
+[INFO ]2023-04-20 14:48:09.370 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:48:09.409 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:48:10.164 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:10.167 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:48:10.238 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:48:10.755 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:10.758 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:48:10.839 [main]LoggerLoad-user is on signin page SD
+[INFO ]2023-04-20 14:48:11.317 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:11.320 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:48:11.378 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:48:11.549 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:48:12.009 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:48:12.336 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:12.342 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:48:12.412 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:48:12.583 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:48:13.084 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:48:13.316 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:13.324 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:48:13.368 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:48:13.501 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:48:13.787 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:48:14.103 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:14.111 [main]LoggerLoad-message from soumya title page Login
+[INFO ]2023-04-20 14:48:14.160 [main]LoggerLoad-user is on loginpage SD
+[INFO ]2023-04-20 14:48:14.314 [main]LoggerLoad-user enter username and password
+[INFO ]2023-04-20 14:48:14.660 [main]LoggerLoad-Invalid username and password
+[INFO ]2023-04-20 14:48:14.979 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:14.997 [main]LoggerLoad-message from soumya title page NumpyNinja
+[INFO ]2023-04-20 14:48:15.005 [main]LoggerLoad-checking alert message you are not logged in
+[INFO ]2023-04-20 14:48:15.065 [main]LoggerLoad-user is on home page SD
+[INFO ]2023-04-20 14:48:15.314 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:48:15.744 [main]LoggerLoad-user is on homepage sd
+[INFO ]2023-04-20 14:48:16.585 [main]LoggerLoad-user enter invalid username and password pom
+[INFO ]2023-04-20 14:48:17.188 [main]LoggerLoad-Title of current page of tree is:Types of Trees
+[INFO ]2023-04-20 14:48:17.188 [main]LoggerLoad-Title of SubpageTitle page of tree is:Types of Trees
+[INFO ]2023-04-20 14:48:17.188 [main]LoggerLoad-User onTypes of Trees
+[INFO ]2023-04-20 14:48:17.549 [main]LoggerLoad-Title of current page of tree is:Assessment
+[INFO ]2023-04-20 14:48:17.550 [main]LoggerLoad-Title of SubpageTitle page of tree is:Assessment
+[INFO ]2023-04-20 14:48:17.550 [main]LoggerLoad-User onAssessment
+[INFO ]2023-04-20 14:48:17.788 [main]LoggerLoad-5
+[WARN ]2023-04-20 14:48:18.215 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:18.235 [main]LoggerLoad-invalid
+[INFO ]2023-04-20 14:48:19.705 [main]LoggerLoad-user enter valid username and password pom ds
+[INFO ]2023-04-20 14:48:19.708 [main]LoggerLoad-user successfully logout SD
+[INFO ]2023-04-20 14:48:20.006 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:48:20.329 [main]LoggerLoad-The user should be redirected to Time Complexity page SDDS
+[INFO ]2023-04-20 14:48:20.356 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:48:21.452 [main]LoggerLoad-user try to do negative test
+[WARN ]2023-04-20 14:48:21.668 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:22.035 [main]LoggerLoad-user is on stack page SDST
+[INFO ]2023-04-20 14:48:22.491 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-04-20 14:48:22.511 [main]LoggerLoad-User is on data structure page SDDS
+[INFO ]2023-04-20 14:48:22.909 [main]LoggerLoad-Title of current page is:Assessment
+[WARN ]2023-04-20 14:48:23.646 [main]LoggerLoad-checking alert message from tryeditor SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:24.078 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:48:24.590 [main]LoggerLoad-user in Array page
+[INFO ]2023-04-20 14:48:24.928 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-04-20 14:48:25.718 [main]LoggerLoad-user in Arrays in Python page
+[INFO ]2023-04-20 14:48:26.389 [main]LoggerLoad-user in on Assessment page
+[WARN ]2023-04-20 14:48:27.630 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:28.181 [main]LoggerLoad-User should be redirected to Arrays Using List page
+[WARN ]2023-04-20 14:48:29.702 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:30.248 [main]LoggerLoad-user is on basic operation page
+[INFO ]2023-04-20 14:48:30.254 [main]LoggerLoad-Title of current page is:Basic Operations in Lists
+[WARN ]2023-04-20 14:48:31.419 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:31.923 [main]LoggerLoad-Title of current page is:Applications of Array
+[INFO ]2023-04-20 14:48:32.457 [main]LoggerLoad-Title of current page is:Practice Questions
+[INFO ]2023-04-20 14:48:33.006 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:48:33.441 [main]LoggerLoad-user_enters_valid_python_code_from_sheet_print_question_page 
+[INFO ]2023-04-20 14:48:33.556 [main]LoggerLoad- checking clickevent in array sd page
+[WARN ]2023-04-20 14:48:33.566 [main]LoggerLoad-checking alert message from tryeditor array SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:33.567 [main]LoggerLoad- checking output in array sd pageSyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:34.093 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:48:35.081 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:48:35.528 [main]LoggerLoad-Title of current page is:Assessment
+[INFO ]2023-04-20 14:48:36.660 [main]LoggerLoad-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+[INFO ]2023-04-20 14:48:36.918 [main]LoggerLoad-----------------User clicks on Graph Get started button----------------------
+[INFO ]2023-04-20 14:48:37.387 [main]LoggerLoad-----------------User is on Graph Page----------------------
+[INFO ]2023-04-20 14:48:37.407 [main]LoggerLoad-----------------User is on Graph Data Structure Page----------------------
+[INFO ]2023-04-20 14:48:37.409 [main]LoggerLoad-----------------User clicks on Graph link in Graph Page----------------------
+[INFO ]2023-04-20 14:48:37.615 [main]LoggerLoad-----------------User is re-directed to Graphlink of Graph Page----------------------
+[INFO ]2023-04-20 14:48:37.636 [main]LoggerLoad-----------------User is on Graph link of Graph Page----------------------
+[INFO ]2023-04-20 14:48:37.637 [main]LoggerLoad-----------------User clicks on Try here button----------------------
+[INFO ]2023-04-20 14:48:37.984 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:48:38.022 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:48:38.024 [main]LoggerLoad-----------------User enters Valid Python code----------------------
+[INFO ]2023-04-20 14:48:38.160 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:48:38.253 [main]LoggerLoad-----------------User is presented with the Result---------------------
+[INFO ]2023-04-20 14:48:38.317 [main]LoggerLoad----------------User is on graph Page---------------------
+[INFO ]2023-04-20 14:48:38.661 [main]LoggerLoad----------------User is NAVIGATED TO graph Page---------------------
+[INFO ]2023-04-20 14:48:38.663 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:48:38.988 [main]LoggerLoad---------------User is navigated to Graph Representations Page---------------------
+[INFO ]2023-04-20 14:48:39.020 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:48:39.022 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:48:39.358 [main]LoggerLoad-----------------User is re-directed to tryEditor Page----------------------
+[INFO ]2023-04-20 14:48:39.390 [main]LoggerLoad-----------------User is on tryEditor Page----------------------
+[INFO ]2023-04-20 14:48:39.392 [main]LoggerLoad-----------------User clicks on  Graph Representations link---------------------
+[INFO ]2023-04-20 14:48:39.551 [main]LoggerLoad-----------------clicks on Run button---------------------
+[INFO ]2023-04-20 14:48:39.662 [main]LoggerLoad-----------------User is presented with Error Message---------------------
+[WARN ]2023-04-20 14:48:39.674 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:39.695 [main]LoggerLoad---------------User is on Graph Representations Page---------------------
+[INFO ]2023-04-20 14:48:39.697 [main]LoggerLoad---------------User clicks on Practice Questions link---------------------
+[INFO ]2023-04-20 14:48:39.831 [main]LoggerLoad---------------User is navigated to Practice Questions Page---------------------
+[INFO ]2023-04-20 14:48:40.100 [main]LoggerLoad-----------User is on Home Page of Dsalgo Portal------------------------
+[INFO ]2023-04-20 14:48:40.101 [main]LoggerLoad-----------User clicks on getstarted button------------------------
+[INFO ]2023-04-20 14:48:40.372 [main]LoggerLoad-----------User is navigated to Queue data structure------------------------
+[INFO ]2023-04-20 14:48:40.407 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:48:40.409 [main]LoggerLoad-----------User clicks on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:48:40.757 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:48:40.759 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:48:41.141 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:48:41.161 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:48:41.294 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:48:41.364 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:48:41.590 [main]LoggerLoad-----------User is navigated to Implementation of Queue in python------------------------
+[INFO ]2023-04-20 14:48:41.592 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:48:42.042 [main]LoggerLoad-----------clicks on Run Button------------------------
+[WARN ]2023-04-20 14:48:42.190 [main]LoggerLoad---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+[INFO ]2023-04-20 14:48:42.221 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:48:42.223 [main]LoggerLoad-----------User clicks on the Implementation using collections.deque link------------------------
+[INFO ]2023-04-20 14:48:42.432 [main]LoggerLoad-----------User is navigated to Implementation using collections.deque link-----------------------
+[INFO ]2023-04-20 14:48:42.450 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:48:42.731 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:48:42.762 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:48:42.917 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:48:43.037 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:48:43.127 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:48:43.309 [main]LoggerLoad-----------User is navigated to Implementation using array page-----------------------
+[INFO ]2023-04-20 14:48:43.341 [main]LoggerLoad-----------User is on Implementation using array page-----------------------
+[INFO ]2023-04-20 14:48:43.343 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:48:43.613 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:48:43.645 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:48:43.814 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:48:43.881 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:48:43.953 [main]LoggerLoad-----------User is on Queue Data Structure------------------------
+[INFO ]2023-04-20 14:48:43.954 [main]LoggerLoad-----------User clicks on  Queue Operations link-----------------------
+[INFO ]2023-04-20 14:48:44.156 [main]LoggerLoad-----------User is navigated to Queue Operations Page-----------------------
+[INFO ]2023-04-20 14:48:44.187 [main]LoggerLoad-----------User is on QUeue Operations Page-----------------------
+[INFO ]2023-04-20 14:48:44.189 [main]LoggerLoad-----------User clicks on TRYHERE button------------------------
+[INFO ]2023-04-20 14:48:44.515 [main]LoggerLoad-----------User is navigated to tryEditor Page------------------------
+[INFO ]2023-04-20 14:48:44.548 [main]LoggerLoad-----------User Enters Code in Editor------------------------
+[INFO ]2023-04-20 14:48:44.690 [main]LoggerLoad-----------clicks on Run Button------------------------
+[INFO ]2023-04-20 14:48:44.769 [main]LoggerLoad-----------The User is Presented with a Result------------------------
+[INFO ]2023-04-20 14:48:44.839 [main]LoggerLoad-----------User is on Implementation of Queue in Python------------------------
+[INFO ]2023-04-20 14:48:44.840 [main]LoggerLoad-----------User clicks on Practice Questions link-----------------------
+[INFO ]2023-04-20 14:48:45.052 [main]LoggerLoad-Steps Failed , Taking Screenshot

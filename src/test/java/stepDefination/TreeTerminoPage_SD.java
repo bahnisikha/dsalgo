@@ -88,7 +88,7 @@ public class TreeTerminoPage_SD {
 	}
 
 	@Then("Title of page should be Terminologies")
-	public void title_of_page_should_be_terminologies() {
+	public void title_of_page_should_be_terminologies() throws InterruptedException {
 
 		tryeditorlink.user_is_on_tree_subpage("Terminologies");
 tryeditorlink.user_clicks_on_try_editor_link();

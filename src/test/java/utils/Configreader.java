@@ -128,18 +128,18 @@ public class Configreader {
 }
 		public static String StacktryherePage(){
 			String stactryherekurl=prop.getProperty("tryherestackpage");
-	if (stactryherekurl != null)
-		return stactryherekurl;
-	else 
-		throw new RuntimeException("Stack tryhere URL not specified in the Config.properties file");	
-}
+			if (stactryherekurl != null)
+				return stactryherekurl;
+			else 
+				throw new RuntimeException("Stack tryhere URL not specified in the Config.properties file");	
+		}
 		public static String StacktryeditorPage(){
-			String stacktryeditorkurl=prop.getProperty("tryherestackpage");
-if (stacktryeditorkurl != null)
-	return stacktryeditorkurl;
-else 
-	throw new RuntimeException("Stack tryhereeditor URL not specified in the Config.properties file");	
-}
+					String stacktryeditorkurl=prop.getProperty("tryherestackpage");
+			if (stacktryeditorkurl != null)
+				return stacktryeditorkurl;
+			else 
+				throw new RuntimeException("Stack tryhereeditor URL not specified in the Config.properties file");	
+		}
 		public static String Stackpracticspage(){
 					String stackpracticskurl=prop.getProperty("tryherestackpage");
 					if (stackpracticskurl != null)
@@ -156,12 +156,75 @@ else
 			else
 				throw new RuntimeException("Array Page url not specified in the Configuration.properties file.");
 		}
+		
+		public static String ArraysinPythonpageurl() {
+			String ArraysinPython = prop.getProperty("ArraysinPythonpage");
+			if (ArraysinPython != null)
+				return ArraysinPython;
+			else
+				throw new RuntimeException("Array Page url not specified in the Configuration.properties file.");
+		}
 		public static String tryEditorURL() {
 			String tryeditorurl = prop.getProperty("TryEditorPage");
 			if (tryeditorurl != null)
 				return tryeditorurl;
 			else
 				throw new RuntimeException("tryeditorurl not specified in the Configuration.properties file.");
+		}
+		
+		public static String arraylisturl() {
+			String arraylist = prop.getProperty("ArraysUsingList");
+			if (arraylist != null)
+				return arraylist;
+			else
+				throw new RuntimeException("ArraysUsingList not specified in the Configuration.properties file.");
+		}
+		
+		public static String arraybasicoperationutl() {
+			String arraybasicoperationlist = prop.getProperty("BasicOperationsinLists");
+			if (arraybasicoperationlist != null)
+				return arraybasicoperationlist;
+			else
+				throw new RuntimeException("BasicOperationsinLists not specified in the Configuration.properties file.");
+		}
+		public static String arrayapplicationurl() {
+			String arryapplicationpage = prop.getProperty("ApplicationsofArray");
+			if (arryapplicationpage != null)
+				return arryapplicationpage;
+			else
+				throw new RuntimeException("ApplicationsofArray not specified in the Configuration.properties file.");
+		}
+		
+		public static String arraypracticepageurl() {
+			String arrypracticepage = prop.getProperty("Practicepage");
+			if (arrypracticepage != null)
+				return arrypracticepage;
+			else
+				throw new RuntimeException("BasicOperationsinLists not specified in the Configuration.properties file.");
+		}
+		
+		public static String arrayquestionurl() {
+			String arryquestionpage = prop.getProperty("QuestionSearchthearray");
+			if (arryquestionpage != null)
+				return arryquestionpage;
+			else
+				throw new RuntimeException("BasicOperationsinLists specified in the Configuration.properties file.");
+		}
+		
+		public static String QuestionFindNumberswithEvenNumberofDigitsurl() {
+			String QuestionFindNumberswithEvenNumberofDigitspage = prop.getProperty("QuestionFindNumberswithEvenNumberofDigits");
+			if (QuestionFindNumberswithEvenNumberofDigitspage != null)
+				return QuestionFindNumberswithEvenNumberofDigitspage;
+			else
+				throw new RuntimeException("QuestionFindNumberswithEvenNumberofDigits specified in the Configuration.properties file.");
+		}
+		
+		public static String QuestionSquaresofaSortedArrayurl() {
+			String QuestionSquaresofaSortedArrayurlpage = prop.getProperty("QuestionSquaresofaSortedArray");
+			if (QuestionSquaresofaSortedArrayurlpage != null)
+				return QuestionSquaresofaSortedArrayurlpage;
+			else
+				throw new RuntimeException("QuestionSquaresofaSortedArray specified in the Configuration.properties file.");
 		}
 		// Linked list	
 		public static String getLinkedListUrl() {								  
