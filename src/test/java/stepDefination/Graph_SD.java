@@ -34,9 +34,8 @@ public class Graph_SD {
 	
 
 	@When("user clicks on login button")
-    public void the_user_click_on_login_button() {
-    
-		 spom.signinclick();
+    public void the_user_click_on_login_button() {    
+		 spom.loginbtn();
 	}
 
 

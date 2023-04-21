@@ -400,19 +400,128 @@ public class Configreader {
 					throw new RuntimeException("treepageoverview not specified in the Config.properties file");
 			
 			
-		}
+			}
 			
 			public static String TryEditorPage(){
 				String tryeditorpageurl=prop.getProperty("treetryeditorurl");
 				if (tryeditorpageurl != null)
 					return tryeditorpageurl;
 				else 
-					throw new RuntimeException("treetryeditor page url not specified in the Config.properties file");
+					throw new RuntimeException("treetryeditor page url not specified in the Config.properties file");			
+			}
+			
+			//TRYEDITOR URL
+			public static String tryeditorPage() {
+				String try_edurl = prop.getProperty("tryeditorurl");
+				if (try_edurl != null)
+					return try_edurl;
+				else
+					throw new RuntimeException("TryEditorPage not specified in the Config.properties file");
+
+			}
+			
+			//LinkedlistPage  URL
+			
+			public static String linklist_getstarted() {
+				String linklist_gs = prop.getProperty("linkedlist");
+				if (linklist_gs!= null) {
+					return linklist_gs;
+				} else {
+					throw new RuntimeException("Linkeslist page url not specified in config file");
+				}
+			}
 			
 			
-		}
-		
+			// LINKEDLIST INTRO URL
 			
+			public static String linklist_int() {
+				String linklist_int = prop.getProperty("linkedlist_intro");
+				if (linklist_int!= null) {
+					return  linklist_int;
+				} else {
+					throw new RuntimeException("Linkedlist Intro  page url not specified in config file");
+				}
+			}
+			
+			//LINKEDLIST CREATION PAGE URL
+			
+			
+			public static String linklist_creation() {
+				String linklist_crt = prop.getProperty("linkedlist_create");
+				if (linklist_crt!= null) {
+					return linklist_crt;
+				} else {
+					throw new RuntimeException("Linkedlist creation page url not specified in config file");
+				}
+			}
+			
+			//LINKEDLIST Types of Linked list
+			
+			public static String linklist_types() {
+				String linklist_typs = prop.getProperty("linkedlist_type_of_linklist");
+				if (linklist_typs!= null) {
+					return linklist_typs;
+				} else {
+					throw new RuntimeException("Linkedlist Types page url not specified in config file");
+				}
+			}
+			
+			//LINKEDLIST Implemention in Python
+			public static String linklist_python() {
+				String linklist_pyt = prop.getProperty("linkedlist_im_in_python");
+				if ( linklist_pyt != null) {
+					return  linklist_pyt;
+				} else {
+					throw new RuntimeException("Linkedlist Implemention in Python page url not specified in config file");
+				}
+			}
+			
+			//LINKEDLIST  Traversal
+			
+			
+				public static String linklist_traversal() {
+					String linklist_trv = prop.getProperty("linkedlist_traversal");
+					if ( linklist_trv != null) {
+						return  linklist_trv;
+					} else {
+						throw new RuntimeException("Linkedlist Traversal page url not specified in config file");
+					}
+				}
+				
+				//LINKEDLIST  Insertion
+				
+				
+					public static String linklist_insertion() {
+						String linklist_ins = prop.getProperty("linkedlist_insertion");
+						if ( linklist_ins != null) {
+							return  linklist_ins;
+						} else {
+							throw new RuntimeException("Linkedlist Insertion page url not specified in config file");
+						}
+					}
+				
+					//LINKEDLIST Deletion
+					
+					
+					public static String linklist_deletion() {
+						String linklist_del = prop.getProperty("linkedlist_deletion");
+						if ( linklist_del != null) {
+							return  linklist_del;
+						} else {
+							throw new RuntimeException("Linkedlist Deletion page url not specified in config file");
+						}
+					}
+		            //LINKEDLIST Practice Question
+					
+					
+					public static String linklist_Practquest() {
+						String linklist_pq = prop.getProperty("linkedlist_pracq");
+						if (  linklist_pq != null) {
+							return   linklist_pq;
+						} else {
+							throw new RuntimeException("Linkedlist Deletion page url not specified in config file");
+						}
+					}   
 
 }
 	
