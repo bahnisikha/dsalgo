@@ -409,7 +409,8 @@ public class Array_SD {
 		
 			@Then("User should get success submission message FindNumberswithEvenNumberofDigits")
 			public void user_should_get_success_submission_message_find_numberswith_even_numberof_digits() throws InterruptedException {
-				Thread.sleep(500);
+				//Thread.sleep(500);
+				array.waitForSubmit();
 				String s= array.submitOutput();
 				LoggerLoad.info("user_should_get_success_submission_message_find_numberswith_even_numberof_digits "+ s);
 		        assertEquals(s,"Error occurred during submission");
