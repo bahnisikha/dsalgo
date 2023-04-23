@@ -33,11 +33,11 @@ import io.cucumber.junit.Cucumber;
 		public class runnercucumber extends AbstractTestNGCucumberTests{
 
 		
-//			@Override
+	//	@Override
 //		    @DataProvider(parallel = false)
-//		    public Object[][] scenarios() {					
-//				return super.scenarios();
-// }
+////		    public Object[][] scenarios() {					
+////				return super.scenarios();
+//// }
 //		@BeforeTest
 //@Parameters({"browser"})
 //		public void defineBrowser(String browser) throws Throwable {

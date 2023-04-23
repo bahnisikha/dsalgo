@@ -45,12 +45,11 @@ public class Hook {
 	}
 	}
 
-//	@AfterAll
-//	public static void after() throws InterruptedException {
-//		LoggerLoad.info("Closing Driver");
-//		Thread.sleep(5000);
-//		base.closeallDriver();
-//		}
+	@AfterAll
+public static void after() throws InterruptedException {
+	LoggerLoad.info("Closing Driver");
+	Thread.sleep(5000);
+		base.closeallDriver();		}
 
 	}
 
